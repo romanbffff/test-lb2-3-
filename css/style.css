@@ -72,3 +72,14 @@ header {
 	margin-bottom: 62px;
 	font-family: arial;
 }
+.gallery img {
+  width: 500px;
+  height: 500px;
+  padding-left: 0.3%;
+  padding-bottom: 0.3%;
+  padding-right: 0.3%;
+  padding-top: 0.3%;
+}
+.gallery img:hover {
+	opacity: 0.9;
+}
