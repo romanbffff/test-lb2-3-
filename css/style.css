@@ -35,39 +35,30 @@ header {
 	display: inline-block;
 	vertical-align: middle;
 }
-.top-block h1 {
-	padding-top: 30px;
-	font-weight: bolder;
-	font-family: arial;
-	display: block;
+
+.main_features{
+	background: #F2F2F2;
 	text-align: center;
-	margin-bottom: 30px;
+	padding: 20px 0 100px 0;
+	color: black;
 }
-.first-top-block {
-	background-color: #F2F2F2;
+.main_features h1{
+	font-size: 44px;
+	margin-bottom: 62px;
 }
-.first-top-block img {
-	border-radius: 50%;
-	width: 121px;
-	height: 121px;
-	display: block;
+.photo img {
+  width: 125px;
+  height: 125px;
+  border-radius: 50%;
+  margin: 10px auto;
 
 }
-.first-top-block figcaption {
-	color: #969696;
-	font-family: arial;
-	float: right;
-	width: 95%;
-	text-align: center;
-	margin: 0.5em;
-	padding: 0.5em;
+.features_cards{
+	display: inline-flex;
 }
-.first-line-block li {
-	padding-left: 240px;
-	display: inline-block;
+.card{
+	margin: 0 20px;
 }
-.first-line-block a {
-	color: black;
-	font-family: arial;
-	font-weight: bold;
+.features_cards2{
+	display: inline-flex;
 }
