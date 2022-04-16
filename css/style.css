@@ -43,8 +43,9 @@ header {
 	color: black;
 }
 .main_features h1{
-	font-size: 44px;
+	font-size: 45px;
 	margin-bottom: 62px;
+	font-family: arial;
 }
 .photo img {
   width: 125px;
@@ -55,10 +56,19 @@ header {
 }
 .features_cards{
 	display: inline-flex;
+	font-family: arial;
 }
 .card{
 	margin: 0 20px;
 }
-.features_cards2{
-	display: inline-flex;
+.programs{
+	margin-top: 20px;
+	text-align: center;
+	padding: 20px 0 100px 0;
+	color: black;
+}
+.programs h1{
+	font-size: 45px;
+	margin-bottom: 62px;
+	font-family: arial;
 }
